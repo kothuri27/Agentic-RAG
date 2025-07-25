@@ -28,17 +28,6 @@ This project implements an **Agentic Retrieval-Augmented Generation (RAG)** work
 
 ---
 
-## 📁 Project Structure
-
-Agentic-RAG/
-│
-├── main.py # Main project code for running the RAG workflow
-├── .env # API keys for GROQ and OpenAI
-├── req.txt # Required Python packages
-├── README.md # You're here!
-
----
-
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
